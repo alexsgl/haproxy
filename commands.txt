@@ -1,0 +1,2 @@
+Run haproxy, specifying config:
+ haproxy -f config.cfg
