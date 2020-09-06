@@ -1,0 +1,1 @@
+cat fullchain.pem privkey.pem | tee haproxy.pem
